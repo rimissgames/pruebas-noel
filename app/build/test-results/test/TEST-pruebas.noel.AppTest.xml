@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pruebas.noel.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-11T09:40:50" hostname="DESKTOP-18ECUQO" time="0.005">
+  <properties/>
+  <testcase name="appHasAGreeting" classname="pruebas.noel.AppTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
